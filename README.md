@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Stock Analysis App is designed to provide comprehensive stock price analysis and forecasting for companies listed on the Frankfurt Stock Exchange (FRA). It offers various features including live prices, historical data graphs, and technical indicators. The app is built using Streamlit, a popular framework for creating interactive web applications in Python.
+This Stock Analysis App is designed to provide comprehensive stock price analysis and forecasting for companies listed on the New York stock exchange(NYSE). It offers various features including live prices, historical data graphs, and technical indicators. The app is built using Streamlit, a popular framework for creating interactive web applications in Python.
 
 ## Features
 
